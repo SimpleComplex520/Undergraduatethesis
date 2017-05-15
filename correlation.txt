@@ -1,0 +1,4 @@
+Correlation Time
+2000 1500 1000 0
+Correlation Space
+1 2 4 30
